@@ -8,10 +8,17 @@ function App() {
   var x = 5;
   console.log(x);
   
-  const user = {name:"ATHARV",age:22,place:"MANGLORE"}
-  const{name,...rest} = user;
-  console.log(name);
-  console.log(rest);
+const items = [1,2,3,4];
+const list = items.map(it, idx) => <li key={idx}>(it)</li>;
+
+const evens = [1,2,3,4].filter(n => n % 2 === 0);
+
+const sum = [10,20,30].reduce((acc,v) => acc + v, 0);
+(acc,v) => 
+(v>acc?v:acc);
+
+
+ 
   return (
     <>
     
