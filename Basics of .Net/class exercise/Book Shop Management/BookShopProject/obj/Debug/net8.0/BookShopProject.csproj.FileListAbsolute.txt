@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Repos\basic\Basics of .Net\class exercise\Book Shop Management\BookShopProject\obj\Debug\net8.0\BookShopProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Repos\basic\Basics of .Net\class exercise\Book Shop Management\BookShopProject\obj\Debug\net8.0\BookShopProject.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Repos\basic\Basics of .Net\class exercise\Book Shop Management\BookShopProject\obj\Debug\net8.0\BookShopProject.AssemblyInfo.cs
+C:\Users\HP\Desktop\Repos\basic\Basics of .Net\class exercise\Book Shop Management\BookShopProject\obj\Debug\net8.0\BookShopProject.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Repos\basic\Basics of .Net\class exercise\Book Shop Management\BookShopProject\obj\Debug\net8.0\BookShopProject.sourcelink.json
+C:\Users\HP\Desktop\Repos\basic\Basics of .Net\class exercise\Book Shop Management\BookShopProject\bin\Debug\net8.0\BookShopProject.exe
+C:\Users\HP\Desktop\Repos\basic\Basics of .Net\class exercise\Book Shop Management\BookShopProject\bin\Debug\net8.0\BookShopProject.deps.json
+C:\Users\HP\Desktop\Repos\basic\Basics of .Net\class exercise\Book Shop Management\BookShopProject\bin\Debug\net8.0\BookShopProject.runtimeconfig.json
+C:\Users\HP\Desktop\Repos\basic\Basics of .Net\class exercise\Book Shop Management\BookShopProject\bin\Debug\net8.0\BookShopProject.dll
+C:\Users\HP\Desktop\Repos\basic\Basics of .Net\class exercise\Book Shop Management\BookShopProject\bin\Debug\net8.0\BookShopProject.pdb
+C:\Users\HP\Desktop\Repos\basic\Basics of .Net\class exercise\Book Shop Management\BookShopProject\obj\Debug\net8.0\BookShopProject.dll
+C:\Users\HP\Desktop\Repos\basic\Basics of .Net\class exercise\Book Shop Management\BookShopProject\obj\Debug\net8.0\refint\BookShopProject.dll
+C:\Users\HP\Desktop\Repos\basic\Basics of .Net\class exercise\Book Shop Management\BookShopProject\obj\Debug\net8.0\BookShopProject.pdb
+C:\Users\HP\Desktop\Repos\basic\Basics of .Net\class exercise\Book Shop Management\BookShopProject\obj\Debug\net8.0\BookShopProject.genruntimeconfig.cache
+C:\Users\HP\Desktop\Repos\basic\Basics of .Net\class exercise\Book Shop Management\BookShopProject\obj\Debug\net8.0\ref\BookShopProject.dll
