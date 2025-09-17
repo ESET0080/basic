@@ -1,0 +1,4 @@
+C:\Users\HP\Desktop\Repos\basic\basic\Basics of .Net\class exercise\datastructure_demo\obj\Debug\net8.0\datastructure_demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Repos\basic\basic\Basics of .Net\class exercise\datastructure_demo\obj\Debug\net8.0\datastructure_demo.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Repos\basic\basic\Basics of .Net\class exercise\datastructure_demo\obj\Debug\net8.0\datastructure_demo.AssemblyInfo.cs
+C:\Users\HP\Desktop\Repos\basic\basic\Basics of .Net\class exercise\datastructure_demo\obj\Debug\net8.0\datastructure_demo.csproj.CoreCompileInputs.cache
