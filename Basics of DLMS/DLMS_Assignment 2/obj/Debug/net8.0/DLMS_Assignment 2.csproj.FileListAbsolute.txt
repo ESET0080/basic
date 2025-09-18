@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\Repos\basic\basic\Basics of DLMS\DLMS_Assignment 2\bin\Debug\net8.0\DLMS_Assignment 2.exe
+C:\Users\HP\Desktop\Repos\basic\basic\Basics of DLMS\DLMS_Assignment 2\bin\Debug\net8.0\DLMS_Assignment 2.deps.json
+C:\Users\HP\Desktop\Repos\basic\basic\Basics of DLMS\DLMS_Assignment 2\bin\Debug\net8.0\DLMS_Assignment 2.runtimeconfig.json
+C:\Users\HP\Desktop\Repos\basic\basic\Basics of DLMS\DLMS_Assignment 2\bin\Debug\net8.0\DLMS_Assignment 2.dll
+C:\Users\HP\Desktop\Repos\basic\basic\Basics of DLMS\DLMS_Assignment 2\bin\Debug\net8.0\DLMS_Assignment 2.pdb
+C:\Users\HP\Desktop\Repos\basic\basic\Basics of DLMS\DLMS_Assignment 2\obj\Debug\net8.0\DLMS_Assignment 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Repos\basic\basic\Basics of DLMS\DLMS_Assignment 2\obj\Debug\net8.0\DLMS_Assignment 2.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Repos\basic\basic\Basics of DLMS\DLMS_Assignment 2\obj\Debug\net8.0\DLMS_Assignment 2.AssemblyInfo.cs
+C:\Users\HP\Desktop\Repos\basic\basic\Basics of DLMS\DLMS_Assignment 2\obj\Debug\net8.0\DLMS_Assignment 2.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Repos\basic\basic\Basics of DLMS\DLMS_Assignment 2\obj\Debug\net8.0\DLMS_Assignment 2.dll
+C:\Users\HP\Desktop\Repos\basic\basic\Basics of DLMS\DLMS_Assignment 2\obj\Debug\net8.0\refint\DLMS_Assignment 2.dll
+C:\Users\HP\Desktop\Repos\basic\basic\Basics of DLMS\DLMS_Assignment 2\obj\Debug\net8.0\DLMS_Assignment 2.pdb
+C:\Users\HP\Desktop\Repos\basic\basic\Basics of DLMS\DLMS_Assignment 2\obj\Debug\net8.0\DLMS_Assignment 2.genruntimeconfig.cache
+C:\Users\HP\Desktop\Repos\basic\basic\Basics of DLMS\DLMS_Assignment 2\obj\Debug\net8.0\ref\DLMS_Assignment 2.dll
